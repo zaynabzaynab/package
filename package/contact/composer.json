@@ -1,0 +1,19 @@
+{
+    "name": "zineb/contact",
+    "description": "first package using laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zineb el amri",
+            "email": "zineb.elamri.97@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Zineb\\Contact":"src/"
+        }
+    }
+}
